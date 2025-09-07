@@ -1,4 +1,6 @@
-# 🌍 Travel Planner Web App
+# 🌍 Travel Planner Web App -- JournoAI
+![WhatsApp Image 2025-09-08 at 00 15 35_f1c9b89f](https://github.com/user-attachments/assets/da5c11ff-5c08-44a7-9e8d-93966781e9b8)
+
 
 A modern web application to plan **personalized travel itineraries**. Users can select their **destination, travel dates, budget, travel style, and interests** to generate a tailored travel plan. Built with **React, TailwindCSS**, and **FastAPI**.
 
@@ -20,11 +22,7 @@ A modern web application to plan **personalized travel itineraries**. Users can 
 
 ## 🌐 Screenshots
 
-![Home Page](./screenshots/home.png)  
-*Home page with the adventure planner form*
 
-![Itinerary Result](./screenshots/itinerary.png)  
-*Sample generated itinerary displayed in the app*
 
 ---
 
@@ -70,8 +68,8 @@ python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 pip install -r requirements.txt
-
-
+```
+---
 
 ✈️ Travel Style Guide
 
@@ -129,17 +127,14 @@ Open a Pull Request.
 
 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 JouroAI
 
 📞 Contact
 
-GitHub: yourusername
+GitHub: cooldeba-21
 
-Email: your.email@example.com
+Email: debashismohapatra8260@gmail.com
 
 
 ---
 
-If you want, I can **also create a “final polished version” with live badges, tech stack icons, and GIFs for UI/UX preview** — perfect for GitHub showcase.  
-
-Do you want me to do that next?
