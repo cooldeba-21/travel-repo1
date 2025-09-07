@@ -22,8 +22,17 @@ A modern web application to plan **personalized travel itineraries**. Users can 
 
 ## 🌐 Screenshots
 
+<img width="1848" height="960" alt="image" src="https://github.com/user-attachments/assets/4987a5c3-ef68-446e-a7b3-7e49e0f3962a" />
 
+<img width="709" height="863" alt="image" src="https://github.com/user-attachments/assets/109a6030-8e8d-4b4a-a47e-ee1a7d91390e" />
 
+<img width="1857" height="925" alt="image" src="https://github.com/user-attachments/assets/bf2f1c24-0955-40fa-af93-9b674ce09d34" />
+
+<img width="1850" height="539" alt="image" src="https://github.com/user-attachments/assets/e80c3c7f-6a5e-4a1a-a229-9639c0df328f" />
+
+<img width="1867" height="876" alt="image" src="https://github.com/user-attachments/assets/5924769f-a831-4612-bf5e-dfed9a95ed15" />
+
+<img width="1824" height="943" alt="image" src="https://github.com/user-attachments/assets/fa7738a2-c181-494a-845d-c0248e94903d" />
 ---
 
 ## 🛠 Technology Stack
